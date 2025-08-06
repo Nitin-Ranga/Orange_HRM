@@ -1,0 +1,26 @@
+{
+  "valid": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "invalid": {
+    "username": "Nitin",
+    "password": "Testing@123"
+  },
+  "empty": {
+    "username": " ",
+    "password": " "
+  },
+  "validemployee" :{
+    "firstname": "Test",
+    "lastname": "user",
+    "middlename": "new",
+    "employeeid": "10",
+    "username": "newtestinguser",
+    "password": "PPass@123",
+    "confirmpassword": "PPass@123",
+    "invalidconfirmpassword": "Test@123",
+    "image":"valid-image.jpg"
+  }
+
+}
